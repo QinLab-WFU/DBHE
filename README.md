@@ -21,9 +21,15 @@ Before training, you need to download the MIRFLICKR-25K dataset from https://pre
 ### Citation
 @article{ZHANG2025131411,
 title = {Deep binary hyperbolic embedding for large-scale image retrieval},
+
 author = {Mengru Zhang and Enhao Wang and Qibing Qin and Jinkui Hou and Wenfeng Zhang and Lei Huang}
+
 journal = {Neurocomputing},
+
 pages = {131411},
+
 year = {2025},
+
 issn = {0925-2312},
+
 doi = {https://doi.org/10.1016/j.neucom.2025.131411}}
